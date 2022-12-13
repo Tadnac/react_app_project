@@ -5,7 +5,8 @@ Aplikace představuje "cestovatelskou" aplikaci, kde je možné vidět navštív
 
 Základní vzhled aplikace po prvním načtení
 
-![ukazka_1](https://user-images.githubusercontent.com/106878089/207428333-bde606b8-ad00-4109-b3c5-63e815f117d1.png)
+![ukazka_1](https://user-images.githubusercontent.com/106878089/207428654-fb369b9f-32f4-46a4-b6bb-47c25c5fbde1.png)
+
 
 Ukázka validace přihlašovacího formuláře
 
