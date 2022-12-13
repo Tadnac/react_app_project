@@ -4,7 +4,8 @@ Aplikace slouží jako ukázkový projekt, který využívá routování, zobraz
 Aplikace představuje "cestovatelskou" aplikaci, kde je možné vidět navštívená místa daného uživatele. Aplikace bude následně ukazovat i místo na mapě - tato funkcionalita bude přidána.
 
 Základní vzhled aplikace po prvním načtení
-![ukazka_1](https://user-images.githubusercontent.com/106878089/207425507-64d0b8ed-19d9-4f70-b05f-a06900621966.png)
+
+![ukazka_1](https://user-images.githubusercontent.com/106878089/207428203-b221e067-1a54-4611-9623-9f3925f2b883.png)
 
 Ukázka validace přihlašovacího formuláře
 ![ukazka_](https://user-images.githubusercontent.com/106878089/207425644-d6ef101d-317a-4e97-aa05-251d59a741ff.png)
