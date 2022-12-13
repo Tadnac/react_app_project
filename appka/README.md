@@ -1,9 +1,9 @@
 Aplikace - React
 
 Aplikace slouží jako ukázkový projekt, který využívá routování, zobrazení stránek po přihlášení a validaci formulářů. 
-Aplikace představuje "cestovatelskou" aplikaci, kde je možné vidět navštívená místa daného uživatele. Aplikace bude násldně ukazovat i místo na mapě.
+Aplikace představuje "cestovatelskou" aplikaci, kde je možné vidět navštívená místa daného uživatele. Aplikace bude následně ukazovat i místo na mapě - tato funkcionalita bude přidána.
 
-Základní vzhled aplikace po prvním naštení
+Základní vzhled aplikace po prvním načtení
 ![ukazka_1](https://user-images.githubusercontent.com/106878089/207425507-64d0b8ed-19d9-4f70-b05f-a06900621966.png)
 
 Ukázka validace přihlašovacího formuláře
