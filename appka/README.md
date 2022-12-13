@@ -1,3 +1,10 @@
+Aplikace - React
+
+aplikace slouží jako ukázkový projekt, který využívá routování, zobrazení stránek po přihlášení a validaci formulářů. 
+Aplikace představuje "cestovatelskou" aplikaci, kde je možné vidět navštívená místa daného uživatele. Aplikace bude násldně ukazovat i místo na mapě.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
